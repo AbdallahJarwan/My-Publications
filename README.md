@@ -1,4 +1,4 @@
-# scholar-publications
+# My-Publications
 
 My publications list are available on my:
 
